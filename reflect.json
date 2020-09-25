@@ -1,0 +1,47 @@
+[
+  {
+    "name": "com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ],
+    "allPublicMethods" : true
+  },
+  {
+    "name": "com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent$ProxyRequestContext",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ],
+    "allPublicMethods" : true
+  },
+  {
+    "name": "com.amazonaws.services.lambda.runtime.events.APIGatewayProxyRequestEvent$RequestIdentity",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ],
+    "allPublicMethods" : true
+  },
+  {
+    "name": "nl.theguild.lambda.model.AuthorizerResponse",
+    "allPublicMethods" : true
+  },
+  {
+    "name": "nl.theguild.lambda.model.DefaultResponse",
+    "allPublicMethods" : true
+  },
+  {
+    "name": "nl.theguild.lambda.model.InvocationResponse",
+    "allPublicMethods" : true
+  },
+  {
+    "name": "nl.theguild.lambda.model.aws.LambdaContext",
+    "allPublicMethods" : true
+  },
+  {
+    "name": "nl.theguild.lambda.model.aws.PolicyDocument",
+    "allPublicMethods" : true
+  },
+  {
+    "name": "nl.theguild.lambda.model.aws.Statement",
+    "allPublicMethods" : true
+  }
+]
